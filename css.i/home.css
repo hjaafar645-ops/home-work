@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #4d0c4e;
+    background-color: #000000;
 }
 
 .card {
@@ -78,6 +78,6 @@ h4 {
 }
 
 span {
-    background-color: #fff;
+    background-color: #53126e;
     color: #000000;
 }
